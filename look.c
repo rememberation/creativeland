@@ -3,7 +3,7 @@
 int main()
 {
 	char love[5],a[11]={"I love you"},b[9]={"tryagain"},c[5]={"look"};
-	printf("ÇëÊäÈë×Ö·û´®£º");
+	printf("please input strings");
 	scanf("%s",love);
 	int d=strcmp(love,c); 
 	if(d==0)
