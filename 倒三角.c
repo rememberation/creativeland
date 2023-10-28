@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-printf("* * * *\n * * *\n  * *\n   *");/*×¢ÒâÊÇ/»¹ÊÇ\*/ 
+printf("* * * *\n * * *\n  * *\n   *");/*æ³¨æ„æ˜¯/è¿˜æ˜¯\*/ 
     return 0;
 }
