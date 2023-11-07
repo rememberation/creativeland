@@ -1,10 +1,10 @@
-/*ÈòÄêÓï¾äµÄ¿ìËÙÊµĞĞ*/
+/*ÄŒÅˆÃ„Ä™Ã“ÄÅ¾Ã¤Ä¾Ã„Å¼Ä›Ã‹Å®Ä˜Ä¾ÄÄ*/
  #include<stdio.h> 
  int main()
 	{
  		int year,leap;
  		scanf("%d",&year);
- 		leap=(year%4==0&&year%100!=0)||year%400==0;
+ 		leap=(year%4==0&&year%100!=0)||year%400==0;/*çœŸç®€æ´*/
  		if(leap==1)
  		printf("This is a leap year");
  		else
